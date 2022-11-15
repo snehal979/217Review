@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\new\EvenANDold\EvenANDold\bin\Debug\net6.0\EvenANDodd.exe
+C:\Users\hp\Desktop\new\EvenANDold\EvenANDold\bin\Debug\net6.0\EvenANDodd.deps.json
+C:\Users\hp\Desktop\new\EvenANDold\EvenANDold\bin\Debug\net6.0\EvenANDodd.runtimeconfig.json
+C:\Users\hp\Desktop\new\EvenANDold\EvenANDold\bin\Debug\net6.0\EvenANDodd.dll
+C:\Users\hp\Desktop\new\EvenANDold\EvenANDold\bin\Debug\net6.0\EvenANDodd.pdb
+C:\Users\hp\Desktop\new\EvenANDold\EvenANDold\obj\Debug\net6.0\EvenANDodd.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\new\EvenANDold\EvenANDold\obj\Debug\net6.0\EvenANDodd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\new\EvenANDold\EvenANDold\obj\Debug\net6.0\EvenANDodd.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\new\EvenANDold\EvenANDold\obj\Debug\net6.0\EvenANDodd.AssemblyInfo.cs
+C:\Users\hp\Desktop\new\EvenANDold\EvenANDold\obj\Debug\net6.0\EvenANDodd.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\new\EvenANDold\EvenANDold\obj\Debug\net6.0\EvenANDodd.dll
+C:\Users\hp\Desktop\new\EvenANDold\EvenANDold\obj\Debug\net6.0\refint\EvenANDodd.dll
+C:\Users\hp\Desktop\new\EvenANDold\EvenANDold\obj\Debug\net6.0\EvenANDodd.pdb
+C:\Users\hp\Desktop\new\EvenANDold\EvenANDold\obj\Debug\net6.0\EvenANDodd.genruntimeconfig.cache
+C:\Users\hp\Desktop\new\EvenANDold\EvenANDold\obj\Debug\net6.0\ref\EvenANDodd.dll
